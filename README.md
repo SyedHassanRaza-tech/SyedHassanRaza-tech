@@ -25,4 +25,6 @@ I want to study Computer Science at university, build useful software, improve m
 
 ## Website
 
-My personal website will be added soon.
+🌐 [thehassanraza.com](https://thehassanraza.com)
+
+
